@@ -1,0 +1,57 @@
+[
+  {
+    "title": "",
+    "name": "sidebar.dashboard",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": ""
+  },
+  {
+    "title": "Dashboard",
+    "name": "sidebar.dashboard1",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "dashboard.home-4"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-hospital-fill"
+  },
+  {
+    "title": "Manage Schedule",
+    "name": "sidebar.calendar",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name" : "app.calendar"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-calendar-event-fill"
+  },
+  {
+    "title": "Patient Diagnosis",
+    "name": "sidebar.formElements",
+    "is_active": false,
+    "link": {
+      "name": "form.layout"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-tablet-line"
+  },
+  {
+    "title": "Logout",
+    "name": "Logout",
+    "is_active": false,
+    "link": {
+      "name": ""
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-logout-box-line"
+  }
+]
